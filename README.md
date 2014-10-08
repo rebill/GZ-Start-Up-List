@@ -9,6 +9,7 @@
 | [慕紫服装](http://itjuzi.com/company/13348) | 电子商务 | 2012年2月 | 396万人民币 | A轮 2014年9月 | [51job](http://search.51job.com/list/co,c,2540028,000000,10,1.html) |
 | [超级课程表](http://itjuzi.com/company/941) | 移动互联网 | 2012年8月 | 数千万美元 | B轮 2014年6月 | [拉勾](http://www.lagou.com/gongsi/1301.html) |
 | [微聚](http://itjuzi.com/company/1095) | 移动互联网 | 2013年4月 | 1800万美元 | A轮 2014年9月 | [拉勾](http://www.lagou.com/gongsi/7473.html) |
+| [Mobvista移动远景](http://itjuzi.com/company/14127) | 移动互联网 | 2013年3月 | 1000万美元 | A轮 2014年10月 | [拉勾](http://www.lagou.com/gongsi/22045.html) |
 | [CatchChat秒视](http://itjuzi.com/company/12383) | 移动互联网 | 2014年7月 | 数百万美元 | A轮 2014年9月 | [拉勾](http://www.lagou.com/gongsi/35084.html) |
 | [高友](http://itjuzi.com/company/13484) | 移动互联网 | 2014年7月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/28952.html) |
 | [Halo哈罗](http://itjuzi.com/company/13487) |移动互联网 | 2014年8月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/15505.html) |
