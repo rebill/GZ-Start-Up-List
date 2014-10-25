@@ -26,6 +26,7 @@
 | [爱拍原创](http://itjuzi.com/company/1611) | 多媒体娱乐 | 2008年9月 | 3800万美元 | C轮 2014年8月 | [拉勾](http://www.lagou.com/gongsi/112.html) |
 | [平安校巴](http://itjuzi.com/company/12730) | 消费生活 | 2012年12月 | 100万人民币 | 种子天使 2013年7月 | [51job](http://search.51job.com/list/co,c,3027905,000000,10,1.html) |
 | [一块去旅行](http://itjuzi.com/company/1119) | 旅游户外 | 2012年9月 | 数百万美元 | A轮 2014年1月| [51job](http://search.51job.com/list/co,c,2906059,000000,10,1.html) |
+| [要出发旅行网](http://itjuzi.com/company/2549) | 旅游户外 | 2011年10月 | 数百万美元 | A轮 2013年12月| [拉勾](http://www.lagou.com/gongsi/12195.html) |
 | [每日Q游戏](http://itjuzi.com/company/5712) | SNS社交网络 |2012年1月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/25626.html) |
 | [贴贴科技](http://itjuzi.com/company/5997) | SNS社交网络 | 2013年1月 | 数百万人民币 | 种子天使 2014年7月 | [51job](http://search.51job.com/list/co,c,3187079,000000,10,1.html) |
 | [租租车](http://itjuzi.com/company/736) | 汽车交通 | 2011年6月 | 1000万美元 | A轮 2014年9月 | [拉勾](http://www.lagou.com/gongsi/14059.html) |
