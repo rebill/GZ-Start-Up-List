@@ -16,6 +16,7 @@
 | [兼职猫](http://itjuzi.com/company/4103) | 移动互联网 | 2013年9月 | 100万人民币 | 种子天使 2014年4月 | [拉勾](http://www.lagou.com/gongsi/6356.html) |
 | [网脊运维通](http://itjuzi.com/company/9671) | 企业服务 | 2014年3月 | 300万人民币 | 种子天使 2014年4月 | [大街网](http://www.dajie.com/corp/4117297) |
 | [SequoiaDB 巨杉数据库](http://itjuzi.com/company/6991) | 企业服务 | 2012年10月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/7695.html) |
+| [舜飞科技](http://itjuzi.com/company/2697) | 企业服务 | 2011年06月 | 不明确 | A轮 不明确 | [拉勾](http://www.lagou.com/gongsi/5806.html) |
 | [西山居](http://itjuzi.com/company/8833) | 游戏动漫 | 1995年5月 | 2500万美元 | 不明确 2014年2月 | [拉勾](http://www.lagou.com/gongsi/7816.html) |
 | [易大师](http://itjuzi.com/company/12552) | 游戏动漫 | 2014年1月 | 数百万人民币 | 种子天使 2014年8月 | [官网](http://yidashi.cn/about.php?aid=6&catid=1) |
 | [365金融](http://itjuzi.com/company/10753) | 金融服务 | 2013年6月 | 1500万美元 | A轮 2014年5月 | [51job](http://search.51job.com/list/co,c,2847998,000000,10,1.html) |
