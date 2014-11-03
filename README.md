@@ -31,6 +31,7 @@
 | [每日Q游戏](http://itjuzi.com/company/5712) | SNS社交网络 |2012年1月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/25626.html) |
 | [贴贴科技](http://itjuzi.com/company/5997) | SNS社交网络 | 2013年1月 | 数百万人民币 | 种子天使 2014年7月 | [51job](http://search.51job.com/list/co,c,3187079,000000,10,1.html) |
 | [租租车](http://itjuzi.com/company/736) | 汽车交通 | 2011年6月 | 1000万美元 | A轮 2014年9月 | [拉勾](http://www.lagou.com/gongsi/14059.html) |
+| [御途网络](http://itjuzi.com/company/14589) | 汽车交通 | 2014年10月 | 数百万美元 | 种子天使 2014年10月 | - |
 | [42Bop](http://itjuzi.com/company/8407) | 文化艺术体育 | 2014年1月 | 300万人民币 | 种子天使 2014年5月 | [拉勾](http://www.lagou.com/gongsi/7638.html) |
 
 
