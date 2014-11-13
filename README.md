@@ -14,6 +14,7 @@
 | [高友](http://itjuzi.com/company/13484) | 移动互联网 | 2014年7月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/28952.html) |
 | [Halo哈罗](http://itjuzi.com/company/13487) |移动互联网 | 2014年8月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/15505.html) |
 | [兼职猫](http://itjuzi.com/company/4103) | 移动互联网 | 2013年9月 | 100万人民币 | 种子天使 2014年4月 | [拉勾](http://www.lagou.com/gongsi/6356.html) |
+| [OpenCom](http://itjuzi.com/company/15018) | 企业服务 | 2014年5月 | 数千万人民币 | 种子天使 2014年11月 | [拉勾](http://www.lagou.com/gongsi/22357.html) |
 | [网脊运维通](http://itjuzi.com/company/9671) | 企业服务 | 2014年3月 | 300万人民币 | 种子天使 2014年4月 | [大街网](http://www.dajie.com/corp/4117297) |
 | [SequoiaDB 巨杉数据库](http://itjuzi.com/company/6991) | 企业服务 | 2012年10月 | 数百万人民币 | 种子天使 2014年8月 | [拉勾](http://www.lagou.com/gongsi/7695.html) |
 | [舜飞科技](http://itjuzi.com/company/2697) | 企业服务 | 2011年06月 | 不明确 | A轮 不明确 | [拉勾](http://www.lagou.com/gongsi/5806.html) |
@@ -32,6 +33,7 @@
 | [贴贴科技](http://itjuzi.com/company/5997) | SNS社交网络 | 2013年1月 | 数百万人民币 | 种子天使 2014年7月 | [51job](http://search.51job.com/list/co,c,3187079,000000,10,1.html) |
 | [租租车](http://itjuzi.com/company/736) | 汽车交通 | 2011年6月 | 1000万美元 | A轮 2014年9月 | [拉勾](http://www.lagou.com/gongsi/14059.html) |
 | [御途网络](http://itjuzi.com/company/14589) | 汽车交通 | 2014年10月 | 数百万美元 | 种子天使 2014年10月 | - |
+| [帷千动媒](http://itjuzi.com/company/5349) | 广告营销 | 2009年8月 | 数百万美元 | A轮 2011年8月 | [拉勾](http://www.lagou.com/gongsi/406.html) |
 | [42Bop](http://itjuzi.com/company/8407) | 文化艺术体育 | 2014年1月 | 300万人民币 | 种子天使 2014年5月 | [拉勾](http://www.lagou.com/gongsi/7638.html) |
 
 
