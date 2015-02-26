@@ -14,4 +14,4 @@
 
 ## 数据来源
 
-[IT桔子](http://itjuzi.com/) & [投资数据网](http://touzishuju.com/)
+[IT桔子](http://itjuzi.com/)
